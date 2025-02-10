@@ -2,6 +2,8 @@
 
 A MCP server project
 
+<a href="https://glama.ai/mcp/servers/fd8f58oegw"><img width="380" height="200" src="https://glama.ai/mcp/servers/fd8f58oegw/badge" alt="Datetime Server MCP server" /></a>
+
 ## Components
 
 ### Resources
